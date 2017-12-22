@@ -1,0 +1,11 @@
+Package: BPD
+Type: Package
+Title: Bayesian Particle Discovery
+Version: 0.1.0
+Author: Shirin Golchi
+Maintainer: Shirin Golchi <sgolchi@sfu.ca>
+Description: This package contains code for implementation of methods in Golchi and Lockhart (2017). A Bayesian hirerachical model is fit to simulated data (povided by CMS) for discovery of the Higgs boson.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
